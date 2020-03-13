@@ -1,5 +1,7 @@
 # AntDesignLeftImageList
 
+Ant Design 的 List 列表组件，图片在左侧的样式的实现。
+
 ## 如何实现
 
 1. 将 node_module 中 antd/es/list 的 List 组件拷贝出来；
